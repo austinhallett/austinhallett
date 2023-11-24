@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a deep lov
 - **Cloud Computing:** [AWS]
 - **Databases:** [MSSQL, MySQL, Postgres, MongoDB]
 - **DevOps:** [Docker, Docker Compose, Docker Swarm, Kubernetes, Hashicorp Nomad, Jenkins]
-- *
 
 ## 🌟 Highlights
 - [Mention Any Significant Projects or Achievements]
