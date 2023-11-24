@@ -5,12 +5,12 @@
 Welcome to my GitHub profile! I'm a passionate Software Engineer with a deep love for technology and a knack for crafting elegant solutions to complex problems. Here you'll find a glimpse of my journey in the world of software development.
 
 ## 🔧 Technologies & Skills
-- **Languages:** [List of Programming Languages]
-- **Web Development:** [Frontend and Backend Frameworks]
-- **Cloud Computing:** [Cloud Platforms]
-- **Databases:** [Database Management Systems]
-- **DevOps:** [CI/CD, Containerization, Orchestration]
-- **Tools & Frameworks:** [Additional Tools and Frameworks]
+- **Languages:** [Python, Typescript, Groovy]
+- **Web Development:** [React.js/Next.js, Vue.js/Nuxt.js/Quasar, Express.js, Django, FastAPI]
+- **Cloud Computing:** [AWS]
+- **Databases:** [MSSQL, MySQL, Postgres, MongoDB]
+- **DevOps:** [Docker, Docker Compose, Docker Swarm, Kubernetes, Hashicorp Nomad, Jenkins]
+- *
 
 ## 🌟 Highlights
 - [Mention Any Significant Projects or Achievements]
