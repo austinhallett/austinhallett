@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm a passionate Software Engineer with a deep love for technology and a knack for crafting elegant solutions to complex problems. Here you'll find a glimpse of my journey in the world of software development.
 
 ## 🔧 Technologies & Skills
-- **Languages:** [Python, Typescript, Groovy]
+- **Languages:** [Python, Typescript, Go, Groovy]
 - **Web Development:** [React.js/Next.js, Vue.js/Nuxt.js/Quasar, Express.js, Django, FastAPI]
 - **Cloud Computing:** [AWS]
 - **Databases:** [MSSQL, MySQL, Postgres, MongoDB]
