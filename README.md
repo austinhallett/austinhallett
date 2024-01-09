@@ -11,11 +11,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a deep lov
 - **Databases:** [MSSQL, MySQL, Postgres, MongoDB]
 - **DevOps:** [Docker, Docker Compose, Docker Swarm, Kubernetes, Hashicorp Nomad, Jenkins]
 
-## 🌟 Highlights
-- [Mention Any Significant Projects or Achievements]
-- [Share Any Open Source Contributions]
-- [Highlight Any Certifications or Online Courses]
-
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/austin-hallett-36b0ba186/)
 
