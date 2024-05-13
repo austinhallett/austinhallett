@@ -5,11 +5,11 @@
 Welcome to my GitHub profile! I'm a passionate Software Engineer with a deep love for technology and a knack for crafting elegant solutions to complex problems. Here you'll find a glimpse of my journey in the world of software development.
 
 ## 🔧 Technologies & Skills
-- **Languages:** [Python, Typescript, Go, Groovy]
+- **Languages:** [Python, Typescript, Go, Rust, Groovy]
 - **Web Development:** [React.js/Next.js, Vue.js/Nuxt.js/Quasar, Express.js, Django, FastAPI]
 - **Cloud Computing:** [AWS]
 - **Databases:** [MSSQL, MySQL, Postgres, MongoDB]
-- **DevOps:** [Docker, Docker Compose, Docker Swarm, Kubernetes, Hashicorp Nomad, Jenkins]
+- **DevOps:** [Docker, Docker Compose, Docker Swarm, Kubernetes, Nomad, Jenkins, GitHub Actions, Terraform]
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/austin-hallett-36b0ba186/)
